@@ -15,3 +15,7 @@ Y<- rnorm( 100)
 hist( Y)
 ```
 
+! [Alt text](~/Desktop/lecture_26_jes/gauss.jpeg)
+Regarded as one of the greatest mathematicians of all time, Carl Friedrich Gauss contributed to number theory, geometry, probability theory, geodesy, planetary astronomy, the theory of functions, and potential theory according to Encyclopedia Britannica
+
+
